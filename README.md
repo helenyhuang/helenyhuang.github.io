@@ -1,2 +1,2 @@
-# helenyyhuang.github.io
+# helenyhuang.github.io
 Personal website.
